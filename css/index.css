@@ -1431,6 +1431,10 @@ body {
         font-size: 30px;
     }
 
+    .img-h5-box-1 .img-box-1 {
+        width: 25%;
+    }
+
 }
 
 @media (max-width: 1210px) {
