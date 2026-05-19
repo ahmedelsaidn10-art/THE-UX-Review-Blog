@@ -911,9 +911,7 @@ body {
     width: 100%;
 }
 
-.ineer-box-left {
-    /* background-color: chocolate; */
-}
+
 
 .head-box-left {
     /* background-color: darkgreen; */
@@ -1388,7 +1386,7 @@ body {
     }
 
     .list-link-card1 li {
-        width: 10%;
+        width: 15%;
     }
 
     .list-box-left img {
@@ -1407,7 +1405,29 @@ body {
         font-size: 30px;
     }
 
+    .head-community p {
+        font-size: 17px;
+    }
+
     .titl-AUTHORS h3 {
+        font-size: 30px;
+    }
+
+    .titl-AUTHORS p {
+        font-size: 17px;
+    }
+
+    .title-container-box-left h3 {
+        font-size: 30px;
+    }
+
+    .brutal-home span {
+
+        font-size: 47px;
+
+    }
+
+    .column1-content-footer h1 {
         font-size: 30px;
     }
 
